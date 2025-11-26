@@ -1,8 +1,6 @@
 # About Me / درباره من / Über mich
 
-> این README در سه زبان نوشته شده است: فارسی، English، Deutsch
 
----
 
 ## 📘 English Version
 
