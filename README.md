@@ -21,7 +21,7 @@ Python | Django
 
 ### 📂 Featured Projects
 
-* [FoodLand](https://github.com/mmd/foodland) - Restaurant website with full reservation system (Backend focused)
+* [FoodLand](https://github.com/13mhmd85/foodland) - Restaurant website with full reservation system (Backend focused)
 
 ### 📫 Contact
 
@@ -50,7 +50,7 @@ Python | Django
 
 ### 📂 پروژه‌ها
 
-* [FoodLand](https://github.com/mmd/foodland) - وب‌سایت رستوران با سیستم رزرو کامل (تمرکز روی بک‌اند)
+* [FoodLand](https://github.com/13mhmd85/foodland) - وب‌سایت رستوران با سیستم رزرو کامل (تمرکز روی بک‌اند)
 
 ### 📫 تماس
 
@@ -79,7 +79,7 @@ Python | Django
 
 ### 📂 Projekte
 
-* [FoodLand](https://github.com/mmd/foodland) - Restaurant-Website mit vollständigem Reservierungssystem (Backend-fokussiert)
+* [FoodLand](https://github.com/13mhmd85/foodland) - Restaurant-Website mit vollständigem Reservierungssystem (Backend-fokussiert)
 
 ### 📫 Kontakt
 
