@@ -19,6 +19,10 @@ I enjoy creating robust and efficient backend solutions for real-world projects,
 
 Python | Django
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 ### 📂 Featured Projects
 
 * [FoodLand](https://github.com/13mhmd85/foodland) - Restaurant website with full reservation system (Backend focused)
@@ -48,6 +52,10 @@ Python | Django
 
 Python | Django
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 ### 📂 پروژه‌ها
 
 * [FoodLand](https://github.com/13mhmd85/foodland) - وب‌سایت رستوران با سیستم رزرو کامل (تمرکز روی بک‌اند)
@@ -76,6 +84,10 @@ Ich entwickle gerne robuste und effiziente Backend-Lösungen für reale Projekte
 ### 🛠 Tech Stack
 
 Python | Django
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ### 📂 Projekte
 
